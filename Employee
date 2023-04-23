@@ -1,0 +1,171 @@
+
+   public void Sound();
+public class Employee{
+ public static void main (String[] args){
+  int Employeeid=987;
+  String Employeename="Johnny";
+  int phone=9876543219;
+  public workstress(){
+  }
+  public worktime(){
+  
+  }
+ }
+}
+/*Harmonium contains variables for storing data (characteristics/property) &
+functions (behavior) which is applied on that data.
+*/
+public class Harmonium{
+ public static void main (String[] args){
+  String color;
+  String bellows;
+  int total_keys;
+  public void sound(){
+       
+ }
+}
+/* Class car contains variables to store Like int,string,float etc for storind data property.
+functions(Behavior) which is applied on data.
+public class Car{
+ public static void main (String[] args){
+  String Model=Fortune;
+  String color=blue;
+  int price=30,000;
+  int year=2023;
+  public brake(){
+  }
+  public start(){
+  }
+  public stop(){
+  }
+  public speed(){
+  }
+}
+}
+
+public class House{
+ public static void main (String[] args){
+ String color=white;
+ int durability=40;
+ int floors=5;
+ public membersinhouse(){
+ }
+ public paint(){
+ }
+ public remodling(){
+ }
+}
+}
+public class Laptop{
+ public static void main (String[] args){
+ int model;
+ String color;
+ int size;
+ int touchpad_size;
+ public usingkeys(){
+ 
+ }
+ public usingscreen(){
+ 
+ }
+ }
+ public class phone{
+ public static void main (String[] args){
+
+  int size;
+  String color;
+  int model;
+  int price;
+  public calling(){
+  
+  }
+  public sendingmessage(){
+  
+  }
+  public cameraclicks(){
+  
+  
+  }
+  public watchingvideos(){
+  
+  }
+  }
+  }
+public class waterbottle{
+ public static void main (String[] args){
+ String color=green;
+ int price=28;
+ int size;
+ public openingcap(){
+ }
+ public closingcap(){
+ }
+ }
+}
+public class Photoframe{
+ public static void main (String[] args){
+  int price;
+  float size;
+  String color;
+  public fixingframe(){
+  }
+  public insertphotocopy(){
+  }
+}
+}
+public class Bedframe(){
+ public static void main (String[] args){
+   int size;
+   String color;
+   int framethickness;
+   int price;
+   public fixingbedframe(){
+   }
+   public placingmattress(){
+   }
+   }
+}
+}
+public class Book(){
+ public static void main (String[] args){
+   int size;
+   String color;
+   int bookthickness;
+   int price;
+   public usingbook(){
+   }
+   public closingbook(){
+   }
+   public tearingpaper(){
+   }
+}
+}
+public class Numberblockstoy(){
+ public static void main (String[] args){
+   int sizeofblocks;
+   String blockcolors;
+   int blockthickness;
+   int toyprice;
+   public constructingtrain(){
+   }
+   public constructingpalace(){
+   }
+   public thorwingblocks(){
+   }
+   public packingblocks(){
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
